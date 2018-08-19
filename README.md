@@ -1,4 +1,7 @@
 # Awesome CodeIgniter  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Uma lista de ferramentas para auxilio no desenvolvimento com Codeigniter. (só para não perder)
+
 A list of awesome [CodeIgniter](http://codeigniter.com) core, helpers, hooks, language, libraries, third_party and other cool resources for CodeIgniter.
 
 Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
